@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/cipher-blue-project.dir/link.d "CMakeFiles/cipher-blue-project.dir/src/main.c.o" -o cipher-blue-project  libutils.a
